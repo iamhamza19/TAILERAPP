@@ -1,0 +1,4 @@
+DB_HOST = None
+DB_USER = None
+DB_PASSWORD = None
+DB_NAME = None
